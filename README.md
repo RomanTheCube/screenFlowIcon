@@ -6,3 +6,8 @@ Simple component that allows you to specify a SLDS icon (https://www.lightningde
 Accepts sizes of: xx-small, x-small, small, medium, large
 
 *there are a few icons that simply don't display correctly, unfortunately. Not sure why but there are only a handful of them.
+
+<a href="https://githubsfdeploy.herokuapp.com">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
